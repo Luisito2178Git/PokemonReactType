@@ -1,4 +1,4 @@
-****### Pre-requisitos 📋
+### Pre-requisitos 📋
 
 _Para poder inicializar el sistema se requiere lo siguiente :_
 
